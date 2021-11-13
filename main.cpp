@@ -18,6 +18,8 @@ int main() {
 
         if(fibon<=n){
             cout << fibon << endl;
+        }else{
+        return 0;
         }
     }
 
